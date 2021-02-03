@@ -1,0 +1,1514 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta name="HandheldFriendly" content="true">
+<meta name="apple-touch-fullscreen" content="yes">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Our Stores</title>
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<meta name="robots" content="INDEX,FOLLOW" />
+
+<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="eb165d0a-1543-47a5-b483-0afc7d177290" type="text/javascript" async></script>
+
+
+
+<link rel="icon" href="https://www.houseofamber.com/media/favicon/default/HoA_logo_A_2x1cm_300_dpi_RGB_web.jpg" type="image/x-icon" />
+<link rel="shortcut icon" href="https://www.houseofamber.com/media/favicon/default/HoA_logo_A_2x1cm_300_dpi_RGB_web.jpg" type="image/x-icon" />
+<!--[if lt IE 7]>
+<script>
+//<![CDATA[
+var BLANK_URL = 'https://www.houseofamber.com/js/blank.html';
+var BLANK_IMG = 'https://www.houseofamber.com/js/spacer.gif';
+//]]>
+</script>
+<![endif]-->
+
+<script>
+document._addEventListener = document.addEventListener;
+document.addEventListener = function(eventName, callback){
+			if (document.attachEvent) {
+						document.attachEvent("on"+eventName, callback);
+			} else {
+						document._addEventListener(eventName, callback);
+			}
+}
+	
+var ob_template_config = [];
+</script>
+
+
+<!-- // end e-maerket widget -->
+<script>var obAsyncJs = [{'name': 'et/currencymanager/et_currencymanager.js', 'et/currencymanager/et_currencymanager.js': 'https://www.houseofamber.com/js/et/currencymanager/et_currencymanager.js'},{'name': 'et/currencymanager/et_currencymanager_round.js', 'et/currencymanager/et_currencymanager_round.js': 'https://www.houseofamber.com/js/et/currencymanager/et_currencymanager_round.js'},{'name': 'js/magento.js', 'js/magento.js': 'https://www.houseofamber.com/skin/frontend/default/onlinebrand/js/magento.js'},{'name': 'js/bootstrap.js', 'js/bootstrap.js': 'https://www.houseofamber.com/skin/frontend/default/onlinebrand/js/bootstrap.js'},{'name': 'js/fancybox/jquery.fancybox.js', 'js/fancybox/jquery.fancybox.js': 'https://www.houseofamber.com/skin/frontend/default/onlinebrand/js/fancybox/jquery.fancybox.js'},{'name': 'js/carousel.js', 'js/carousel.js': 'https://www.houseofamber.com/skin/frontend/default/onlinebrand/js/carousel.js'},{'name': 'js/fastclick.js', 'js/fastclick.js': 'https://www.houseofamber.com/skin/frontend/default/onlinebrand/js/fastclick.js'},{'name': 'js/FME/fme_layered_nav.js', 'js/FME/fme_layered_nav.js': 'https://www.houseofamber.com/skin/frontend/default/default/js/FME/fme_layered_nav.js'}];</script><link rel="stylesheet" type="text/css" href="https://www.houseofamber.com/skin/frontend/base/default/css/epay/epayfrontend.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.houseofamber.com/skin/frontend/default/onlinebrand/css/designmatch.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.houseofamber.com/skin/frontend/default/onlinebrand/css/bootstrap.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.houseofamber.com/skin/frontend/default/onlinebrand/css/transitions.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.houseofamber.com/skin/frontend/default/onlinebrand/css/iconfont.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.houseofamber.com/skin/frontend/default/onlinebrand/css/buttons.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.houseofamber.com/skin/frontend/default/onlinebrand/css/carousel.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.houseofamber.com/skin/frontend/default/onlinebrand/css/cart.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.houseofamber.com/skin/frontend/default/onlinebrand/css/category.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.houseofamber.com/skin/frontend/default/onlinebrand/css/checkout.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.houseofamber.com/skin/frontend/default/onlinebrand/css/fancybox.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.houseofamber.com/skin/frontend/default/onlinebrand/css/form.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.houseofamber.com/skin/frontend/default/onlinebrand/css/navigation.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.houseofamber.com/skin/frontend/default/onlinebrand/css/preloader.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.houseofamber.com/skin/frontend/default/onlinebrand/css/productlist.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.houseofamber.com/skin/frontend/default/onlinebrand/css/productview.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.houseofamber.com/skin/frontend/default/onlinebrand/css/spinner.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.houseofamber.com/skin/frontend/default/onlinebrand/css/toolbar.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.houseofamber.com/skin/frontend/default/onlinebrand/css/default.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.houseofamber.com/skin/frontend/default/onlinebrand/css/blockpopup.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.houseofamber.com/skin/frontend/default/onlinebrand/css/custom.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.houseofamber.com/skin/frontend/default/onlinebrand/css/xs.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.houseofamber.com/skin/frontend/default/onlinebrand/css/sm.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.houseofamber.com/skin/frontend/default/onlinebrand/css/md.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.houseofamber.com/skin/frontend/default/onlinebrand/css/lg.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.houseofamber.com/skin/frontend/default/default/css/FME/fme_layered_nav.css" media="all" />
+<link rel="canonical" href="https://www.houseofamber.com/eng/our-stores" />
+<!--[if lt IE 9]>
+<link rel="stylesheet" type="text/css" href="https://www.houseofamber.com/skin/frontend/default/onlinebrand/css/styles-ie.css" media="all" />
+<script type="text/javascript" src="https://www.houseofamber.com/skin/frontend/default/onlinebrand/js/html5.js"></script>
+<![endif]-->
+<script type="text/javascript">
+//<![CDATA[
+document.addEventListener('js/magento.js', function(){
+			Mage.Cookies.path     = '/';
+			Mage.Cookies.domain   = '.www.houseofamber.com';
+});
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+optionalZipCountries = ["IE","PA","HK","MO"];
+//]]>
+</script>
+            <!-- BEGIN GOOGLE UNIVERSAL ANALYTICS CODE -->
+        <script type="text/plain" data-cookieconsent="statistics">
+        //<![CDATA[
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            
+ga('create', 'UA-55188300-1 ', 'auto');
+
+ga('send', 'pageview');
+            
+        //]]>
+        </script>
+        <!-- END GOOGLE UNIVERSAL ANALYTICS CODE -->
+    <script type="text/javascript">
+etCurrencyManagerJsConfig={"precision":0,"position":8,"display":2,"input_admin":1,"excludecheckout":"0","cutzerodecimal":"1","cutzerodecimal_suffix":",-"}</script>
+<!-- Facebook Ads Extension for Magento -->
+<!-- NO Pixel ID is configured, please goto Admin -->
+<script>
+ console.log('No facebook pixel is configured, please log in as a admin and then visit Facebook Ads Extension -> Get Started');
+</script>
+
+<script src="//maps.googleapis.com/maps/api/js?key=AIzaSyBVvjWE3ZLxx2Pk434gngmBFfliC2bN1sE&sensor=false"></script><script type="text/javascript">//<![CDATA[
+									document.addEventListener("js/magento.js", function(){
+        Translator = new Translate([]);
+								});
+        //]]></script></head>
+<body class=" catalog-category-view categorypath-our-stores category-our-stores">
+
+<!-- Logo Schema added by CreareSEO -->
+<script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Organization",
+      "url": "https://www.houseofamber.com/eng/",
+      "logo": "https://www.houseofamber.com/skin/frontend/default/onlinebrand/images/logo.jpg"
+    }
+</script><!-- Organization Schema added by CreareSEO -->
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Copenhagen",
+    "postalCode": "1100",
+    "streetAddress": "Oestergade 13, 1.tr.",
+    "addressRegion": "Denmark"
+  },
+  "name": "English",
+  "telephone": ""
+}
+</script><div class="ob-floating-menu">
+		<ul id="ob-collapsed-navigation" class="nav nav-list">
+						<li class="nav-header">
+									<nav id="topmenu" role="navigation">
+										<ul id="level1">
+														 <li> <a class="" href="https://www.houseofamber.com/eng/shop">Shop</a><a class="icon-collapse" href="javascript:void(0);" data-target="#level2" title="" data-toggle="collapse" ><i class="ob-icon-angle-down pull-right"></i></a><ul class="collapse in" id="level2"> <li> <a class="" href="https://www.houseofamber.com/eng/shop/collection">Collections</a><a class="icon-collapse" href="javascript:void(0);" data-target="#level3" title="" data-toggle="collapse" ><i class="ob-icon-angle-down pull-right"></i></a><ul class="collapse in" id="level3"> <li> <a class="" href="https://www.houseofamber.com/eng/shop/collection/aurora-collection">Aurora Green Amber</a> <li> <a class="" href="https://www.houseofamber.com/eng/shop/collection/balance-by-bukkehave">Balance by Bukkehave</a> <li> <a class="" href="https://www.houseofamber.com/eng/shop/collection/the-ballroom-collection">Ballroom</a> <li> <a class="" href="https://www.houseofamber.com/eng/shop/collection/blossom">Blossom</a> <li> <a class="" href="https://www.houseofamber.com/eng/shop/collection/breeze">Breeze</a> <li> <a class="" href="https://www.houseofamber.com/eng/shop/collection/bygone-garden">Bygone Garden</a> <li> <a class="" href="https://www.houseofamber.com/eng/shop/collection/christmas">Christmas</a> <li> <a class="" href="https://www.houseofamber.com/eng/shop/collection/crown-daisy">Crown Daisy</a> <li> <a class="" href="https://www.houseofamber.com/eng/shop/collection/curves">Curves</a> <li> <a class="" href="https://www.houseofamber.com/eng/shop/collection/droplets">Droplets</a> <li> <a class="" href="https://www.houseofamber.com/eng/shop/collection/enchanted-circus">Enchanted Circus</a> <li> <a class="" href="https://www.houseofamber.com/eng/shop/collection/enlightened-enamel-collection">Enlightened Enamel</a> <li> <a class="" href="https://www.houseofamber.com/eng/shop/collection/fortune-tree">Fortune Tree</a> <li> <a class="" href="https://www.houseofamber.com/eng/shop/collection/gravity-by-bukkehave">Gravity by Bukkehave</a> <li> <a class="" href="https://www.houseofamber.com/eng/shop/collection/harlequin">Harlequin</a> <li> <a class="" href="https://www.houseofamber.com/eng/shop/collection/harmony">Harmony</a> <li> <a class="" href="https://www.houseofamber.com/eng/shop/collection/infinity-collection">Infinity</a> <li> <a class="" href="https://www.houseofamber.com/eng/shop/collection/look-of-london">Look of London</a> <li> <a class="" href="https://www.houseofamber.com/eng/shop/collection/love-in-paris">Love In Paris</a> <li> <a class="" href="https://www.houseofamber.com/eng/shop/collection/the-lucky-spider-collection">Lucky Spider</a> <li> <a class="" href="https://www.houseofamber.com/eng/shop/collection/magic-numbers">Magic Numbers</a> <li> <a class="" href="https://www.houseofamber.com/eng/shop/collection/mother-me">Mother & Me</a> <li> <a class="" href="https://www.houseofamber.com/eng/shop/collection/nordis-seasons">Nordic Seasons</a> <li> <a class="" href="https://www.houseofamber.com/eng/shop/collection/one-rhythm-by-maysoun">One Rhythm by Maysoun</a> <li> <a class="" href="https://www.houseofamber.com/eng/shop/collection/planetaria-by-lara-bohinc">Planetaria by Lara Bohinc</a> <li> <a class="" href="https://www.houseofamber.com/eng/shop/collection/precious-moon">Precious Moon</a> <li> <a class="" href="https://www.houseofamber.com/eng/shop/collection/pure-amber">Pure Amber</a> <li> <a class="" href="https://www.houseofamber.com/eng/shop/collection/pure-mixed-amber">Pure Mixed Amber</a> <li> <a class="" href="https://www.houseofamber.com/eng/shop/collection/rock-stud-by-sigvardt">Rock Stud by Sigvardt</a> <li> <a class="" href="https://www.houseofamber.com/eng/shop/collection/spike-by-bukkehave">Spike by Bukkehave</a> <li> <a class="" href="https://www.houseofamber.com/eng/shop/collection/the-waves-collection">Waves</a> <li> <a class="" href="https://www.houseofamber.com/eng/shop/collection/urban-safari">Urban Safari</a></ul> <li> <a class="" href="https://www.houseofamber.com/eng/shop/pendants">Pendants</a> <li> <a class="" href="https://www.houseofamber.com/eng/shop/necklaces">Necklaces</a> <li> <a class="" href="https://www.houseofamber.com/eng/shop/rings">Rings</a> <li> <a class="" href="https://www.houseofamber.com/eng/shop/earrings">Earrings</a> <li> <a class="" href="https://www.houseofamber.com/eng/shop/bracelets">Bracelets</a> <li> <a class="" href="https://www.houseofamber.com/eng/shop/brooches">Brooches</a> <li> <a class="" href="https://www.houseofamber.com/eng/shop/men">Men's</a> <li> <a class="" href="https://www.houseofamber.com/eng/shop/gifts">Gifts</a> <li> <a class="" href="https://www.houseofamber.com/eng/shop/seasonal">Seasonal</a> <li> <a class="" href="https://www.houseofamber.com/eng/shop/accessories">Accessories</a> <li> <a class="" href="https://www.houseofamber.com/eng/shop/bestsellers">Bestsellers</a> <li> <a class="" href="https://www.houseofamber.com/eng/shop/new-arrivals">New Arrivals</a></ul> </li> <li> <a class="" href="https://www.houseofamber.com/eng/house-of-amber">House of Amber</a><a class="icon-collapse" href="javascript:void(0);" data-target="#level16" title="" data-toggle="collapse" ><i class="ob-icon-angle-down pull-right"></i></a><ul class="collapse in" id="level16"> <li> <a class="" href="https://www.houseofamber.com/eng/house-of-amber/dedication-to-amber">DEDICATION TO AMBER</a> <li> <a class="" href="https://www.houseofamber.com/eng/house-of-amber/the-magical-world-of-amber">THE MAGICAL WORLD OF AMBER</a> <li> <a class="" href="https://www.houseofamber.com/eng/house-of-amber/colours-of-amber">COLOURS OF AMBER</a> <li> <a class="" href="https://www.houseofamber.com/eng/house-of-amber/our-craftsmanship">OUR CRAFTSMANSHIP</a> <li> <a class="" href="https://www.houseofamber.com/eng/house-of-amber/our-quality">OUR QUALITY</a> <li> <a class="" href="https://www.houseofamber.com/eng/house-of-amber/our-designers">OUR DESIGNERS</a> <li> <a class="" href="https://www.houseofamber.com/eng/house-of-amber/our-masterpieces">OUR MASTERPIECES</a></ul> </li> <li> <a class="" href="https://www.houseofamber.com/eng/our-collections">Our Collections</a><a class="icon-collapse" href="javascript:void(0);" data-target="#level24" title="" data-toggle="collapse" ><i class="ob-icon-angle-down pull-right"></i></a><ul class="collapse in" id="level24"> <li> <a class="" href="https://www.houseofamber.com/eng/our-collections/85-anniversary">85 Anniversary</a> <li> <a class="" href="https://www.houseofamber.com/eng/our-collections/aurora-green-amber">Aurora Green Amber</a> <li> <a class="" href="https://www.houseofamber.com/eng/our-collections/avantgarde">Avantgarde</a> <li> <a class="" href="https://www.houseofamber.com/eng/our-collections/balance-by-bukkehave">Balance by Bukkehave</a> <li> <a class="" href="https://www.houseofamber.com/eng/our-collections/ballroom">Ballroom</a> <li> <a class="" href="https://www.houseofamber.com/eng/our-collections/blissful-symphony">Blissful Symphony</a> <li> <a class="" href="https://www.houseofamber.com/eng/our-collections/blossom">Blossom</a> <li> <a class="" href="https://www.houseofamber.com/eng/our-collections/blue-amber">Blue Amber</a> <li> <a class="" href="https://www.houseofamber.com/eng/our-collections/bolero-moment">Bolero Moment</a> <li> <a class="" href="https://www.houseofamber.com/eng/our-collections/bond-of-orbit">Bond of Orbit</a> <li> <a class="" href="https://www.houseofamber.com/eng/our-collections/breeze">Breeze</a> <li> <a class="" href="https://www.houseofamber.com/eng/our-collections/buddhist-prayer-beads">Buddhist Prayer Beads</a> <li> <a class="" href="https://www.houseofamber.com/eng/our-collections/bygone-garden">Bygone Garden</a> <li> <a class="" href="https://www.houseofamber.com/eng/our-collections/crown-daisy">Crown Daisy</a> <li> <a class="" href="https://www.houseofamber.com/eng/our-collections/curves">Curves</a> <li> <a class="" href="https://www.houseofamber.com/eng/our-collections/droplets">Droplets</a> <li> <a class="" href="https://www.houseofamber.com/eng/our-collections/enlightened-enamel">Enlightened Enamel</a> <li> <a class="" href="https://www.houseofamber.com/eng/our-collections/fauna-by-bukkehave">Fauna by Bukkehave</a> <li> <a class="" href="https://www.houseofamber.com/eng/our-collections/fortune-tree">Fortune Tree</a> <li> <a class="" href="https://www.houseofamber.com/eng/our-collections/gravity-by-bukkehave">Gravity by Bukkehave</a> <li> <a class="" href="https://www.houseofamber.com/eng/our-collections/harlequin">Harlequin</a> <li> <a class="" href="https://www.houseofamber.com/eng/our-collections/harmony">Harmony</a> <li> <a class="" href="https://www.houseofamber.com/eng/our-collections/hidden-treasure">Hidden Treasure</a> <li> <a class="" href="https://www.houseofamber.com/eng/our-collections/infinity">Infinity</a> <li> <a class="" href="https://www.houseofamber.com/eng/our-collections/look-of-london">Look of London</a> <li> <a class="" href="https://www.houseofamber.com/eng/our-collections/love-in-paris">Love in Paris</a> <li> <a class="" href="https://www.houseofamber.com/eng/our-collections/lucky-spider">Lucky Spider</a> <li> <a class="" href="https://www.houseofamber.com/eng/our-collections/magical-moods">Magical Moods</a> <li> <a class="" href="https://www.houseofamber.com/eng/our-collections/maki-e-art">Maki-E Art</a> <li> <a class="" href="https://www.houseofamber.com/eng/our-collections/modern-cave-by-bukkehave">Modern Cave by Bukkehave</a> <li> <a class="" href="https://www.houseofamber.com/eng/our-collections/mother-me">Mother & Me</a> <li> <a class="" href="https://www.houseofamber.com/eng/our-collections/muslim-prayer-beads">Muslim Prayer Beads</a> <li> <a class="" href="https://www.houseofamber.com/eng/our-collections/nordic-nature-by-sejr">Nordic Nature by Sejr</a> <li> <a class="" href="https://www.houseofamber.com/eng/our-collections/nordic-seasons">Nordic Seasons</a> <li> <a class="" href="https://www.houseofamber.com/eng/our-collections/one-rhythm-by-maysoun">One Rhythm by Maysoun</a> <li> <a class="" href="https://www.houseofamber.com/eng/our-collections/planetaria-by-lara-bohinc">Planetaria by Lara Bohinc</a> <li> <a class="" href="https://www.houseofamber.com/eng/our-collections/precious-moon">Precious Moon</a> <li> <a class="" href="https://www.houseofamber.com/eng/our-collections/pure-amber">Pure Amber</a> <li> <a class="" href="https://www.houseofamber.com/eng/our-collections/pure-mixed-amber">Pure Mixed Amber</a> <li> <a class="" href="https://www.houseofamber.com/eng/our-collections/rock-stud">Rock Stud by Sigvardt</a> <li> <a class="" href="https://www.houseofamber.com/eng/our-collections/spike">Spike</a></ul> </li> <li> <a class="" href="https://www.houseofamber.com/eng/museum">Museum</a><a class="icon-collapse" href="javascript:void(0);" data-target="#level66" title="" data-toggle="collapse" ><i class="ob-icon-angle-down pull-right"></i></a><ul class="collapse in" id="level66"> <li> <a class="" href="https://www.houseofamber.com/eng/museum/copenhagen-amber-museum">COPENHAGEN AMBER MUSEUM</a> <li> <a class="" href="https://www.houseofamber.com/eng/museum/guinness-world-record">GUINNESS WORLD RECORD</a> <li> <a class="" href="https://www.houseofamber.com/eng/museum/visiting-the-museum">VISITING THE MUSEUM</a> <li> <a class="" href="https://www.houseofamber.com/eng/museum/kanneworffs-house">KANNEWORFFS HOUSE</a> <li> <a class="" href="https://www.houseofamber.com/eng/museum/museum-workshop">MUSEUM WORKSHOP</a></ul> </li> <li> <a class="" href="https://www.houseofamber.com/eng/our-stores">Our Stores</a> </li> <li> <a class="" href="https://www.houseofamber.com/eng/info">Info</a><a class="icon-collapse" href="javascript:void(0);" data-target="#level73" title="" data-toggle="collapse" ><i class="ob-icon-angle-down pull-right"></i></a><ul class="collapse in" id="level73"> <li> <a class="" href="https://www.houseofamber.com/eng/info/contact-us">Contact us</a> <li> <a class="" href="https://www.houseofamber.com/eng/info/our-guarantee">Our Guarantee</a> <li> <a class="" href="https://www.houseofamber.com/eng/info/care-instructions">Care Instructions</a> <li> <a class="" href="https://www.houseofamber.com/eng/info/jewellery-guide">Jewellery Guide</a> <li> <a class="" href="https://www.houseofamber.com/eng/info/terms-conditions">Terms & Conditions</a> <li> <a class="" href="https://www.houseofamber.com/eng/info/vacancies">Vacancies</a> <li> <a class="" href="https://www.houseofamber.com/eng/info/f-a-q">F.A.Q</a></ul> </li>										</ul>
+									</nav>
+									
+									<div class="row">
+										
+										<form id="search_mini_form_mobile_menu" action="https://www.houseofamber.com/eng/catalogsearch/result/" method="get">
+													<div class="form-search">
+															<input id="top_search_menu" type="search" name="q" value="" class="input-text" maxlength="128" />
+															<button type="submit" title="Search" class="button unstyled"><span><span><i class="ob-icon-search-icon"></i></span></span></button>
+															<script type="text/javascript">
+															//<![CDATA[
+																	document.addEventListener('js/magento.js', function(){
+																				searchForm = new Varien.searchForm('search_mini_form_mobile_menu', 'top_search_menu', 'Search');
+																	});
+															//]]>
+															</script>
+													</div>
+										</form>
+									</div>
+						</li>
+		</ul>
+</div><header>
+	<div id="header">
+		<div class="container">
+	 		<div class="row">
+				<div class="hidden-lg col-md-12 col-sm-12 col-xs-12">
+					<ul ID="language-list">
+						<li class="active"><a href="http://www.houseofamber.com/dk">DA</a></li>
+						<li class="active"><a href="http://www.houseofamber.com/eng">ENG</a></li>
+						<li class="active"><a href="http://www.houseofamber.com/cn">中国</a></li>
+						<li class="active"><a href="http://www.houseofamber.com/ar">العربية</a></li>
+						<li class="active"><a href="http://www.houseofamber.com/jp">JPN</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-offset-4 col-lg-4 col-md-offset-4 col-md-4 col-sm-12 col-xs-12">
+      				<a href="https://www.houseofamber.com/eng/" title="House of Amber" class="logo">
+						<img src="https://www.houseofamber.com/skin/frontend/default/onlinebrand/images/logo.jpg" alt="House of Amber" />
+					</a>
+				</div>
+          		<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-right default-margin md-no-margin">
+					<div class="row">
+						<div class="col-lg-9 hidden-md hidden-sm hidden-xs">
+							<ul ID="language-list" style="display: none;">
+								<li class="active"><a href="http://www.houseofamber.com/dk">DA</a></li>
+								<li class="active"><a href="http://www.houseofamber.com/eng">ENG</a></li>
+								<li class="active"><a href="http://www.houseofamber.com/cn">中国</a></li>
+								<li class="active"><a href="http://www.houseofamber.com/ar">العربية</a></li>
+								<li class="active"><a href="http://www.houseofamber.com/jp">JPN</a></li>
+							</ul>
+						</div>
+						<div class="hidden-lg hidden-md col-sm-6 col-xs-6 text-right">
+							<form id="search_mini_form" action="https://www.houseofamber.com/eng/catalogsearch/result/" method="get">
+    <div class="form-search">
+        <input id="search" type="search" name="q" value="" class="input-text" maxlength="128" />
+        <script type="text/javascript">
+        //<![CDATA[
+												document.addEventListener('js/magento.js', function(){
+															searchFormDesktop = new Varien.searchForm('search_mini_form', 'search', 'Search');
+												});
+        //]]>
+        </script>
+    
+				<button type="submit" title="Search" class="button unstyled pull-right"><span><span><i class="ob-icon-search-icon"></i></span></span></button></div>
+</form>
+						</div>
+						<div class="col-lg-2 col-md-2 col-sm-2 col-xs-2">
+						
+											<div id="ob-login-wrapper">
+											<div id="ob-login-icon">
+											<a href="javascript:void(0);"><i class="ob-icon-user"></i></a>
+											</div>
+
+											<div class="top-cart-content-wrapper shadow" id="ob-login-content">
+											<div class="block-content">
+											<div class="cart-content-padding">
+																						<ul class="loginDropdownUl">
+												<li><a href="https://www.houseofamber.com/eng/customer/account/login/" />Login</a></li>
+												<li><a href="https://www.houseofamber.com/eng/customer/account/create/" />Create an Account</a></li>
+											</ul>
+																						</div>
+											</div>
+												
+
+											</div>
+										</div>
+										
+										
+						</div>
+						<div class="col-lg-1 col-md-2 col-sm-2 col-xs-2">
+							<div id="ob-topcart-wrapper">
+						<div class="top-cart-container pull-right">
+						<a href="https://www.houseofamber.com/eng/checkout/cart/">
+									<div class="block-cart" id="ob-basket-icon"><i class="ob-shoppingbag"></i> 
+																		</div>
+						</a>
+						<div class="top-cart-content-wrapper shadow" id="ob-basket-content">
+									<div class="block-content">
+												<div class="cart-content-padding">
+												<p class="head2">My Cart</p>
+																																				<ol class="mini-products-list">
+																								</ol>
+									</div>
+																											<p class="empty">You have no items in your shopping cart.</p>
+																					</div>
+						</div>
+			</div>
+</div>
+						</div>
+						<div class="hidden-lg col-md-8 hidden-sm hidden-xs text-right">
+							<form id="search_mini_form" action="https://www.houseofamber.com/eng/catalogsearch/result/" method="get">
+    <div class="form-search">
+        <input id="search" type="search" name="q" value="" class="input-text" maxlength="128" />
+        <script type="text/javascript">
+        //<![CDATA[
+												document.addEventListener('js/magento.js', function(){
+															searchFormDesktop = new Varien.searchForm('search_mini_form', 'search', 'Search');
+												});
+        //]]>
+        </script>
+    
+				<button type="submit" title="Search" class="button unstyled pull-right"><span><span><i class="ob-icon-search-icon"></i></span></span></button></div>
+</form>
+						</div>
+						<div class="hidden-lg hidden-md col-sm-2 col-xs-2">
+							<a class="ob-mobilemenu-floating-trigged" onclick="javascript:$ob.mobileMenu.openMenu();" href="javascript:void(0);">
+			<div class="menu-trigger-icon-container">
+						<span class="line"></span>
+						<span class="line"></span>
+						<span class="line"></span>
+			</div>
+</a>						</div>
+						</div>
+			</div>
+</div>
+
+</div>
+<div class="container">
+	<div class="row">
+		<div class="col-lg-offset-2 col-lg-8 col-md-12 hidden-sm hidden-xs">
+			<div class="nav-container">
+    <ul id="nav">
+        <li class="level0 nav-1 level-top first parent">
+<a href="https://www.houseofamber.com/eng/shop" class="level-top">
+<span>Shop</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-1-1 first parent">
+<a href="https://www.houseofamber.com/eng/shop/collection">
+<span>Collections</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-1-1-1 first">
+<a href="https://www.houseofamber.com/eng/shop/collection/aurora-collection">
+<span>Aurora Green Amber</span>
+</a>
+</li><li class="level2 nav-1-1-2">
+<a href="https://www.houseofamber.com/eng/shop/collection/balance-by-bukkehave">
+<span>Balance by Bukkehave</span>
+</a>
+</li><li class="level2 nav-1-1-3">
+<a href="https://www.houseofamber.com/eng/shop/collection/the-ballroom-collection">
+<span>Ballroom</span>
+</a>
+</li><li class="level2 nav-1-1-4">
+<a href="https://www.houseofamber.com/eng/shop/collection/blossom">
+<span>Blossom</span>
+</a>
+</li><li class="level2 nav-1-1-5">
+<a href="https://www.houseofamber.com/eng/shop/collection/breeze">
+<span>Breeze</span>
+</a>
+</li><li class="level2 nav-1-1-6">
+<a href="https://www.houseofamber.com/eng/shop/collection/bygone-garden">
+<span>Bygone Garden</span>
+</a>
+</li><li class="level2 nav-1-1-7">
+<a href="https://www.houseofamber.com/eng/shop/collection/christmas">
+<span>Christmas</span>
+</a>
+</li><li class="level2 nav-1-1-8">
+<a href="https://www.houseofamber.com/eng/shop/collection/crown-daisy">
+<span>Crown Daisy</span>
+</a>
+</li><li class="level2 nav-1-1-9">
+<a href="https://www.houseofamber.com/eng/shop/collection/curves">
+<span>Curves</span>
+</a>
+</li><li class="level2 nav-1-1-10">
+<a href="https://www.houseofamber.com/eng/shop/collection/droplets">
+<span>Droplets</span>
+</a>
+</li><li class="level2 nav-1-1-11">
+<a href="https://www.houseofamber.com/eng/shop/collection/enchanted-circus">
+<span>Enchanted Circus</span>
+</a>
+</li><li class="level2 nav-1-1-12">
+<a href="https://www.houseofamber.com/eng/shop/collection/enlightened-enamel-collection">
+<span>Enlightened Enamel</span>
+</a>
+</li><li class="level2 nav-1-1-13">
+<a href="https://www.houseofamber.com/eng/shop/collection/fortune-tree">
+<span>Fortune Tree</span>
+</a>
+</li><li class="level2 nav-1-1-14">
+<a href="https://www.houseofamber.com/eng/shop/collection/gravity-by-bukkehave">
+<span>Gravity by Bukkehave</span>
+</a>
+</li><li class="level2 nav-1-1-15">
+<a href="https://www.houseofamber.com/eng/shop/collection/harlequin">
+<span>Harlequin</span>
+</a>
+</li><li class="level2 nav-1-1-16">
+<a href="https://www.houseofamber.com/eng/shop/collection/harmony">
+<span>Harmony</span>
+</a>
+</li><li class="level2 nav-1-1-17">
+<a href="https://www.houseofamber.com/eng/shop/collection/infinity-collection">
+<span>Infinity</span>
+</a>
+</li><li class="level2 nav-1-1-18">
+<a href="https://www.houseofamber.com/eng/shop/collection/look-of-london">
+<span>Look of London</span>
+</a>
+</li><li class="level2 nav-1-1-19">
+<a href="https://www.houseofamber.com/eng/shop/collection/love-in-paris">
+<span>Love In Paris</span>
+</a>
+</li><li class="level2 nav-1-1-20">
+<a href="https://www.houseofamber.com/eng/shop/collection/the-lucky-spider-collection">
+<span>Lucky Spider</span>
+</a>
+</li><li class="level2 nav-1-1-21">
+<a href="https://www.houseofamber.com/eng/shop/collection/magic-numbers">
+<span>Magic Numbers</span>
+</a>
+</li><li class="level2 nav-1-1-22">
+<a href="https://www.houseofamber.com/eng/shop/collection/mother-me">
+<span>Mother &amp; Me</span>
+</a>
+</li><li class="level2 nav-1-1-23">
+<a href="https://www.houseofamber.com/eng/shop/collection/nordis-seasons">
+<span>Nordic Seasons</span>
+</a>
+</li><li class="level2 nav-1-1-24">
+<a href="https://www.houseofamber.com/eng/shop/collection/one-rhythm-by-maysoun">
+<span>One Rhythm by Maysoun</span>
+</a>
+</li><li class="level2 nav-1-1-25">
+<a href="https://www.houseofamber.com/eng/shop/collection/planetaria-by-lara-bohinc">
+<span>Planetaria by Lara Bohinc</span>
+</a>
+</li><li class="level2 nav-1-1-26">
+<a href="https://www.houseofamber.com/eng/shop/collection/precious-moon">
+<span>Precious Moon</span>
+</a>
+</li><li class="level2 nav-1-1-27">
+<a href="https://www.houseofamber.com/eng/shop/collection/pure-amber">
+<span>Pure Amber</span>
+</a>
+</li><li class="level2 nav-1-1-28">
+<a href="https://www.houseofamber.com/eng/shop/collection/pure-mixed-amber">
+<span>Pure Mixed Amber</span>
+</a>
+</li><li class="level2 nav-1-1-29">
+<a href="https://www.houseofamber.com/eng/shop/collection/rock-stud-by-sigvardt">
+<span>Rock Stud by Sigvardt</span>
+</a>
+</li><li class="level2 nav-1-1-30">
+<a href="https://www.houseofamber.com/eng/shop/collection/spike-by-bukkehave">
+<span>Spike by Bukkehave</span>
+</a>
+</li><li class="level2 nav-1-1-31">
+<a href="https://www.houseofamber.com/eng/shop/collection/the-waves-collection">
+<span>Waves</span>
+</a>
+</li><li class="level2 nav-1-1-32 last">
+<a href="https://www.houseofamber.com/eng/shop/collection/urban-safari">
+<span>Urban Safari</span>
+</a>
+</li>
+</ul>
+</li><li class="level1 nav-1-2">
+<a href="https://www.houseofamber.com/eng/shop/pendants">
+<span>Pendants</span>
+</a>
+</li><li class="level1 nav-1-3">
+<a href="https://www.houseofamber.com/eng/shop/necklaces">
+<span>Necklaces</span>
+</a>
+</li><li class="level1 nav-1-4">
+<a href="https://www.houseofamber.com/eng/shop/rings">
+<span>Rings</span>
+</a>
+</li><li class="level1 nav-1-5">
+<a href="https://www.houseofamber.com/eng/shop/earrings">
+<span>Earrings</span>
+</a>
+</li><li class="level1 nav-1-6">
+<a href="https://www.houseofamber.com/eng/shop/bracelets">
+<span>Bracelets</span>
+</a>
+</li><li class="level1 nav-1-7">
+<a href="https://www.houseofamber.com/eng/shop/brooches">
+<span>Brooches</span>
+</a>
+</li><li class="level1 nav-1-8">
+<a href="https://www.houseofamber.com/eng/shop/men">
+<span>Men's</span>
+</a>
+</li><li class="level1 nav-1-9">
+<a href="https://www.houseofamber.com/eng/shop/gifts">
+<span>Gifts</span>
+</a>
+</li><li class="level1 nav-1-10">
+<a href="https://www.houseofamber.com/eng/shop/seasonal">
+<span>Seasonal</span>
+</a>
+</li><li class="level1 nav-1-11">
+<a href="https://www.houseofamber.com/eng/shop/accessories">
+<span>Accessories</span>
+</a>
+</li><li class="level1 nav-1-12">
+<a href="https://www.houseofamber.com/eng/shop/bestsellers">
+<span>Bestsellers</span>
+</a>
+</li><li class="level1 nav-1-13 last">
+<a href="https://www.houseofamber.com/eng/shop/new-arrivals">
+<span>New Arrivals</span>
+</a>
+</li>
+</ul>
+</li><li class="level0 nav-2 level-top parent">
+<a href="https://www.houseofamber.com/eng/house-of-amber" class="level-top">
+<span>House of Amber</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-2-1 first">
+<a href="https://www.houseofamber.com/eng/house-of-amber/dedication-to-amber">
+<span>DEDICATION TO AMBER</span>
+</a>
+</li><li class="level1 nav-2-2">
+<a href="https://www.houseofamber.com/eng/house-of-amber/the-magical-world-of-amber">
+<span>THE MAGICAL WORLD OF AMBER</span>
+</a>
+</li><li class="level1 nav-2-3">
+<a href="https://www.houseofamber.com/eng/house-of-amber/colours-of-amber">
+<span>COLOURS OF AMBER</span>
+</a>
+</li><li class="level1 nav-2-4">
+<a href="https://www.houseofamber.com/eng/house-of-amber/our-craftsmanship">
+<span>OUR CRAFTSMANSHIP</span>
+</a>
+</li><li class="level1 nav-2-5">
+<a href="https://www.houseofamber.com/eng/house-of-amber/our-quality">
+<span>OUR QUALITY</span>
+</a>
+</li><li class="level1 nav-2-6">
+<a href="https://www.houseofamber.com/eng/house-of-amber/our-designers">
+<span>OUR DESIGNERS</span>
+</a>
+</li><li class="level1 nav-2-7 last">
+<a href="https://www.houseofamber.com/eng/house-of-amber/our-masterpieces">
+<span>OUR MASTERPIECES</span>
+</a>
+</li>
+</ul>
+</li><li class="level0 nav-3 level-top parent">
+<a href="https://www.houseofamber.com/eng/our-collections" class="level-top">
+<span>Our Collections</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-3-1 first">
+<a href="https://www.houseofamber.com/eng/our-collections/85-anniversary">
+<span>85 Anniversary</span>
+</a>
+</li><li class="level1 nav-3-2">
+<a href="https://www.houseofamber.com/eng/our-collections/aurora-green-amber">
+<span>Aurora Green Amber</span>
+</a>
+</li><li class="level1 nav-3-3">
+<a href="https://www.houseofamber.com/eng/our-collections/avantgarde">
+<span>Avantgarde</span>
+</a>
+</li><li class="level1 nav-3-4">
+<a href="https://www.houseofamber.com/eng/our-collections/balance-by-bukkehave">
+<span>Balance by Bukkehave</span>
+</a>
+</li><li class="level1 nav-3-5">
+<a href="https://www.houseofamber.com/eng/our-collections/ballroom">
+<span>Ballroom</span>
+</a>
+</li><li class="level1 nav-3-6">
+<a href="https://www.houseofamber.com/eng/our-collections/blissful-symphony">
+<span>Blissful Symphony</span>
+</a>
+</li><li class="level1 nav-3-7">
+<a href="https://www.houseofamber.com/eng/our-collections/blossom">
+<span>Blossom</span>
+</a>
+</li><li class="level1 nav-3-8">
+<a href="https://www.houseofamber.com/eng/our-collections/blue-amber">
+<span>Blue Amber</span>
+</a>
+</li><li class="level1 nav-3-9">
+<a href="https://www.houseofamber.com/eng/our-collections/bolero-moment">
+<span>Bolero Moment</span>
+</a>
+</li><li class="level1 nav-3-10">
+<a href="https://www.houseofamber.com/eng/our-collections/bond-of-orbit">
+<span>Bond of Orbit</span>
+</a>
+</li><li class="level1 nav-3-11">
+<a href="https://www.houseofamber.com/eng/our-collections/breeze">
+<span>Breeze</span>
+</a>
+</li><li class="level1 nav-3-12">
+<a href="https://www.houseofamber.com/eng/our-collections/buddhist-prayer-beads">
+<span>Buddhist Prayer Beads</span>
+</a>
+</li><li class="level1 nav-3-13">
+<a href="https://www.houseofamber.com/eng/our-collections/bygone-garden">
+<span>Bygone Garden</span>
+</a>
+</li><li class="level1 nav-3-14">
+<a href="https://www.houseofamber.com/eng/our-collections/crown-daisy">
+<span>Crown Daisy</span>
+</a>
+</li><li class="level1 nav-3-15">
+<a href="https://www.houseofamber.com/eng/our-collections/curves">
+<span>Curves</span>
+</a>
+</li><li class="level1 nav-3-16">
+<a href="https://www.houseofamber.com/eng/our-collections/droplets">
+<span>Droplets</span>
+</a>
+</li><li class="level1 nav-3-17">
+<a href="https://www.houseofamber.com/eng/our-collections/enlightened-enamel">
+<span>Enlightened Enamel</span>
+</a>
+</li><li class="level1 nav-3-18">
+<a href="https://www.houseofamber.com/eng/our-collections/fauna-by-bukkehave">
+<span>Fauna by Bukkehave</span>
+</a>
+</li><li class="level1 nav-3-19">
+<a href="https://www.houseofamber.com/eng/our-collections/fortune-tree">
+<span>Fortune Tree</span>
+</a>
+</li><li class="level1 nav-3-20">
+<a href="https://www.houseofamber.com/eng/our-collections/gravity-by-bukkehave">
+<span>Gravity by Bukkehave</span>
+</a>
+</li><li class="level1 nav-3-21">
+<a href="https://www.houseofamber.com/eng/our-collections/harlequin">
+<span>Harlequin</span>
+</a>
+</li><li class="level1 nav-3-22">
+<a href="https://www.houseofamber.com/eng/our-collections/harmony">
+<span>Harmony</span>
+</a>
+</li><li class="level1 nav-3-23">
+<a href="https://www.houseofamber.com/eng/our-collections/hidden-treasure">
+<span>Hidden Treasure</span>
+</a>
+</li><li class="level1 nav-3-24">
+<a href="https://www.houseofamber.com/eng/our-collections/infinity">
+<span>Infinity</span>
+</a>
+</li><li class="level1 nav-3-25">
+<a href="https://www.houseofamber.com/eng/our-collections/look-of-london">
+<span>Look of London</span>
+</a>
+</li><li class="level1 nav-3-26">
+<a href="https://www.houseofamber.com/eng/our-collections/love-in-paris">
+<span>Love in Paris</span>
+</a>
+</li><li class="level1 nav-3-27">
+<a href="https://www.houseofamber.com/eng/our-collections/lucky-spider">
+<span>Lucky Spider</span>
+</a>
+</li><li class="level1 nav-3-28">
+<a href="https://www.houseofamber.com/eng/our-collections/magical-moods">
+<span>Magical Moods</span>
+</a>
+</li><li class="level1 nav-3-29">
+<a href="https://www.houseofamber.com/eng/our-collections/maki-e-art">
+<span>Maki-E Art</span>
+</a>
+</li><li class="level1 nav-3-30">
+<a href="https://www.houseofamber.com/eng/our-collections/modern-cave-by-bukkehave">
+<span>Modern Cave by Bukkehave</span>
+</a>
+</li><li class="level1 nav-3-31">
+<a href="https://www.houseofamber.com/eng/our-collections/mother-me">
+<span>Mother &amp; Me</span>
+</a>
+</li><li class="level1 nav-3-32">
+<a href="https://www.houseofamber.com/eng/our-collections/muslim-prayer-beads">
+<span>Muslim Prayer Beads</span>
+</a>
+</li><li class="level1 nav-3-33">
+<a href="https://www.houseofamber.com/eng/our-collections/nordic-nature-by-sejr">
+<span>Nordic Nature by Sejr</span>
+</a>
+</li><li class="level1 nav-3-34">
+<a href="https://www.houseofamber.com/eng/our-collections/nordic-seasons">
+<span>Nordic Seasons</span>
+</a>
+</li><li class="level1 nav-3-35">
+<a href="https://www.houseofamber.com/eng/our-collections/one-rhythm-by-maysoun">
+<span>One Rhythm by Maysoun</span>
+</a>
+</li><li class="level1 nav-3-36">
+<a href="https://www.houseofamber.com/eng/our-collections/planetaria-by-lara-bohinc">
+<span>Planetaria by Lara Bohinc</span>
+</a>
+</li><li class="level1 nav-3-37">
+<a href="https://www.houseofamber.com/eng/our-collections/precious-moon">
+<span>Precious Moon</span>
+</a>
+</li><li class="level1 nav-3-38">
+<a href="https://www.houseofamber.com/eng/our-collections/pure-amber">
+<span>Pure Amber</span>
+</a>
+</li><li class="level1 nav-3-39">
+<a href="https://www.houseofamber.com/eng/our-collections/pure-mixed-amber">
+<span>Pure Mixed Amber</span>
+</a>
+</li><li class="level1 nav-3-40">
+<a href="https://www.houseofamber.com/eng/our-collections/rock-stud">
+<span>Rock Stud by Sigvardt</span>
+</a>
+</li><li class="level1 nav-3-41 last">
+<a href="https://www.houseofamber.com/eng/our-collections/spike">
+<span>Spike</span>
+</a>
+</li>
+</ul>
+</li><li class="level0 nav-4 level-top parent">
+<a href="https://www.houseofamber.com/eng/museum" class="level-top">
+<span>Museum</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-4-1 first">
+<a href="https://www.houseofamber.com/eng/museum/copenhagen-amber-museum">
+<span>COPENHAGEN AMBER MUSEUM</span>
+</a>
+</li><li class="level1 nav-4-2">
+<a href="https://www.houseofamber.com/eng/museum/guinness-world-record">
+<span>GUINNESS WORLD RECORD</span>
+</a>
+</li><li class="level1 nav-4-3">
+<a href="https://www.houseofamber.com/eng/museum/visiting-the-museum">
+<span>VISITING THE MUSEUM</span>
+</a>
+</li><li class="level1 nav-4-4">
+<a href="https://www.houseofamber.com/eng/museum/kanneworffs-house">
+<span>KANNEWORFFS HOUSE</span>
+</a>
+</li><li class="level1 nav-4-5 last">
+<a href="https://www.houseofamber.com/eng/museum/museum-workshop">
+<span>MUSEUM WORKSHOP</span>
+</a>
+</li>
+</ul>
+</li><li class="level0 nav-5 active level-top">
+<a href="https://www.houseofamber.com/eng/our-stores" class="level-top">
+<span>Our Stores</span>
+</a>
+</li><li class="level0 nav-6 level-top last parent">
+<a href="https://www.houseofamber.com/eng/info" class="level-top">
+<span>Info</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-6-1 first">
+<a href="https://www.houseofamber.com/eng/info/contact-us">
+<span>Contact us</span>
+</a>
+</li><li class="level1 nav-6-2">
+<a href="https://www.houseofamber.com/eng/info/our-guarantee">
+<span>Our Guarantee</span>
+</a>
+</li><li class="level1 nav-6-3">
+<a href="https://www.houseofamber.com/eng/info/care-instructions">
+<span>Care Instructions</span>
+</a>
+</li><li class="level1 nav-6-4">
+<a href="https://www.houseofamber.com/eng/info/jewellery-guide">
+<span>Jewellery Guide</span>
+</a>
+</li><li class="level1 nav-6-5">
+<a href="https://www.houseofamber.com/eng/info/terms-conditions">
+<span>Terms &amp; Conditions</span>
+</a>
+</li><li class="level1 nav-6-6">
+<a href="https://www.houseofamber.com/eng/info/vacancies">
+<span>Vacancies</span>
+</a>
+</li><li class="level1 nav-6-7 last">
+<a href="https://www.houseofamber.com/eng/info/f-a-q">
+<span>F.A.Q</span>
+</a>
+</li>
+</ul>
+</li>    </ul>
+</div>
+		</div>
+		<div class="col-lg-2 hidden-md hidden-sm hidden-xs text-right">
+			<form id="search_mini_form" action="https://www.houseofamber.com/eng/catalogsearch/result/" method="get">
+    <div class="form-search">
+        <input id="search" type="search" name="q" value="" class="input-text" maxlength="128" />
+        <script type="text/javascript">
+        //<![CDATA[
+												document.addEventListener('js/magento.js', function(){
+															searchFormDesktop = new Varien.searchForm('search_mini_form', 'search', 'Search');
+												});
+        //]]>
+        </script>
+    
+				<button type="submit" title="Search" class="button unstyled pull-right"><span><span><i class="ob-icon-search-icon"></i></span></span></button></div>
+</form>
+		</div>
+		
+	</div>
+</div>
+</div>
+</header>
+
+<section id="slider-information">
+						<div class="fp-scroll-view"></div>
+</section>
+
+<div class="breadcrumb">
+	
+<section id="breadcrumb">
+<div class="container">
+						<div itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+			<a href="https://www.houseofamber.com/eng/" itemprop="url">
+						<span itemprop="title">Home</span>
+			</a>
+												›
+									<div itemprop="child" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+						<a href="https://www.houseofamber.com/our-stores" itemprop="url">
+									<span itemprop="title">Our Stores</span>
+						</a>
+						</div></div>
+</div>	
+</section>
+</div>
+	<div class="product_custom_block_2"><img src="https://www.houseofamber.com/media/wysiwyg/CMS/produkt-foral-bg.png" alt="" /> </div>
+<section id="main">
+			<div class="container">
+						<div class="row">
+									<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+												
+												<div class="page-content">
+                                                																		<section role="main"><div id="catalog-filters">
+<script type="text/javascript">
+if (typeof($ob) != 'undefined') {
+			fme_layered_init();
+}
+document.addEventListener('ob_loaded', function(){
+			fme_layered_init();
+});
+</script></div>
+
+
+<h1 class="text-center cath1">Our Stores</h1>
+
+
+    
+  			<p class="note-msg">There are no products matching the selection.</p>
+			<script type="text/javascript">
+document.addEventListener("ob_loaded", function(){
+			$ob.loadPlugin({'name': 'ajaxCart'});
+});
+</script>
+
+<style>
+			#map_canvas img {
+						max-width: none !important;
+			}
+</style>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script type="text/javascript">
+    //<![CDATA[
+
+    if(typeof onlinebrand == "undefined") onlinebrand = {};
+
+    onlinebrand.googlemap = function(){
+      self = this;
+      this.map;
+      this.panorama;
+      this.markers = [];
+      this.infoWindow;
+      this.directionsService = null;
+      this.directionsDisplay = null;
+      this.tmp_lat = null;
+      this.url = '/googlemap/index/search';
+      this.defaultLocation = 'Denmark';
+      this.initDone = false;
+
+
+      this._init = function(){
+        var latlng = new google.maps.LatLng(56.21338352673757, 10.117876953125009);
+				var mapStyle = [
+    {
+        "featureType": "water",
+        "elementType": "geometry",
+        "stylers": [
+            {
+                "color": "#e9e9e9"
+            },
+            {
+                "lightness": 17
+            }
+        ]
+    },
+    {
+        "featureType": "landscape",
+        "elementType": "geometry",
+        "stylers": [
+            {
+                "color": "#f5f5f5"
+            },
+            {
+                "lightness": 20
+            }
+        ]
+    },
+    {
+        "featureType": "road.highway",
+        "elementType": "geometry.fill",
+        "stylers": [
+            {
+                "color": "#ffffff"
+            },
+            {
+                "lightness": 17
+            }
+        ]
+    },
+    {
+        "featureType": "road.highway",
+        "elementType": "geometry.stroke",
+        "stylers": [
+            {
+                "color": "#ffffff"
+            },
+            {
+                "lightness": 29
+            },
+            {
+                "weight": 0.2
+            }
+        ]
+    },
+    {
+        "featureType": "road.arterial",
+        "elementType": "geometry",
+        "stylers": [
+            {
+                "color": "#ffffff"
+            },
+            {
+                "lightness": 18
+            }
+        ]
+    },
+    {
+        "featureType": "road.local",
+        "elementType": "geometry",
+        "stylers": [
+            {
+                "color": "#ffffff"
+            },
+            {
+                "lightness": 16
+            }
+        ]
+    },
+    {
+        "featureType": "poi",
+        "elementType": "geometry",
+        "stylers": [
+            {
+                "color": "#f5f5f5"
+            },
+            {
+                "lightness": 21
+            }
+        ]
+    },
+    {
+        "featureType": "poi.park",
+        "elementType": "geometry",
+        "stylers": [
+            {
+                "color": "#dedede"
+            },
+            {
+                "lightness": 21
+            }
+        ]
+    },
+    {
+        "elementType": "labels.text.stroke",
+        "stylers": [
+            {
+                "visibility": "on"
+            },
+            {
+                "color": "#ffffff"
+            },
+            {
+                "lightness": 16
+            }
+        ]
+    },
+    {
+        "elementType": "labels.text.fill",
+        "stylers": [
+            {
+                "saturation": 36
+            },
+            {
+                "color": "#333333"
+            },
+            {
+                "lightness": 40
+            }
+        ]
+    },
+    {
+        "elementType": "labels.icon",
+        "stylers": [
+            {
+                "visibility": "off"
+            }
+        ]
+    },
+    {
+        "featureType": "transit",
+        "elementType": "geometry",
+        "stylers": [
+            {
+                "color": "#f2f2f2"
+            },
+            {
+                "lightness": 19
+            }
+        ]
+    },
+    {
+        "featureType": "administrative",
+        "elementType": "geometry.fill",
+        "stylers": [
+            {
+                "color": "#fefefe"
+            },
+            {
+                "lightness": 20
+            }
+        ]
+    },
+    {
+        "featureType": "administrative",
+        "elementType": "geometry.stroke",
+        "stylers": [
+            {
+                "color": "#fefefe"
+            },
+            {
+                "lightness": 17
+            },
+            {
+                "weight": 1.2
+            }
+        ]
+    }
+];
+
+
+        var myOptions = {
+            center: latlng,
+												styles: mapStyle,
+            mapTypeId: google.maps.MapTypeId.ROADMAP,
+            disableDefaultUI: false,
+            zoomControl: true
+        }
+
+        this.map = new google.maps.Map(document.getElementById("map_canvas"), myOptions);
+
+        copyrightNode = document.createElement('div');
+        copyrightNode.id = 'copyright-control';
+        copyrightNode.style.fontSize = '11px';
+        copyrightNode.style.color = '#000';
+        copyrightNode.style.fontFamily = 'Arial, sans-serif';
+        copyrightNode.style.margin = '0 0 2px 0';
+        copyrightNode.style.whiteSpace = 'nowrap';
+        copyrightNode.style.right = '0';
+        copyrightNode.style.bottom = '17px';
+        copyrightNode.index = 1;
+        copyrightNode.innerHTML = "<a href='http://www.onlinebrand.dk' target='_blank' title='Webbureau onlineBRAND'>Made by onlineBRAND</a>";
+
+        this.map.controls[google.maps.ControlPosition.BOTTOM_LEFT].push(copyrightNode);
+
+        this.infoWindow = new google.maps.InfoWindow({maxWidth: 500});
+
+        locationSelect = document.getElementById("locationSelect");
+        locationSelect.onchange = function(){
+            var markerNum = locationSelect.options[locationSelect.selectedIndex].value;
+            if(markerNum != "none"){
+                google.maps.event.trigger(markers[markerNum], 'click');
+            }
+        };
+
+        this.directionsService = new google.maps.DirectionsService();
+        this.directionsDisplay = new google.maps.DirectionsRenderer();
+
+        this.geocode();
+      }
+
+      this.geocode = function(){
+        var geocoder = new google.maps.Geocoder();
+
+        geocoder.geocode({address: this.defaultLocation}, function(results, status){
+            if(status == google.maps.GeocoderStatus.OK){
+                self.getLocations(results[0].geometry.location, true);
+            }
+        });
+      }
+
+      this.searchLocations = function(){
+          var country = document.getElementById("countrySelect").value;
+          var address = document.getElementById("addressInput").value;
+          var location = country + ' ' + address;
+
+          this.stopRouteGuidance();
+
+          var geocoder = new google.maps.Geocoder();
+
+          geocoder.geocode({address: location}, function(results, status){
+              if(status == google.maps.GeocoderStatus.OK){
+                  self.getLocations(results[0].geometry.location);
+              }
+          });
+      }
+
+      this.clearLocations = function(){
+        this.infoWindow.close();
+
+        for(var i = 0; i < this.markers.length; i++){
+            this.markers[i].setMap(null);
+        }
+
+        this.markers.length = 0;
+        jQuery("#selectLocations").html("");
+      }
+
+      this.getLocations = function(center, init){
+        this.clearLocations();
+        var country = document.getElementById("countrySelect").value;
+        var countryCode = jQuery("#countrySelect option:selected").attr('data-code');
+        var address = document.getElementById("addressInput").value;
+        var data = jQuery("#ob-googlemap-filter-search").serialize();
+        var url = this.url;
+        var _init = "false";
+
+        if(init == true){
+          var _init = "true";
+        }
+
+        $ob.messages.loading();
+
+        try {
+          jQuery.ajax({
+            url: url,
+            dataType: "json",
+            type: "post",
+            data: {address: address, countryCode: countryCode, lat: center.lat(), lon: center.lng(), init: _init},
+            success: function(data){
+              var bounds = new google.maps.LatLngBounds();
+              var i = 0;
+
+              jQuery.each(data, function(){
+                var name = this.name
+                var address = this.address;
+                var latlng = new google.maps.LatLng(
+                parseFloat(this.lat),
+                parseFloat(this.lon));
+
+               self.addLocationOption(i, this);
+               self.addMapMarker(latlng, this);
+
+                bounds.extend(latlng);
+                i++;
+              });
+
+			jQuery(window).trigger('resize');
+
+              self.map.fitBounds(bounds);
+
+
+              if(i != 0){
+                self.map.fitBounds(bounds);
+                jQuery("#ob-googlemap-error").hide();
+              } else {
+                jQuery("#ob-googlemap-error").show();
+                var geocoder = new google.maps.Geocoder();
+                geocoder.geocode({'address': country}, function(results, status) {
+                    if (status == google.maps.GeocoderStatus.OK) {
+                        self.map.setCenter(results[0].geometry.location);
+                    }
+                });
+              }
+
+              if(address == "" && self.initDone == true){
+                  var geocoder = new google.maps.Geocoder();
+                  geocoder.geocode({'address': country}, function(results, status) {
+                      if (status == google.maps.GeocoderStatus.OK) {
+                          self.map.setCenter(results[0].geometry.location);
+                          self.map.fitBounds(results[0].geometry.bounds);
+                      }
+                  });
+              }
+
+              locationSelect.style.visibility = "visible";
+              locationSelect.onchange = function(){
+                var markerNum = locationSelect.options[locationSelect.selectedIndex].value;
+                google.maps.event.trigger(markers[markerNum], 'click');
+              };
+
+              self.initDone = true;
+
+              $ob.messages.hide();
+            },
+            error: function(request, error){
+              alert(error);
+            }
+          });
+
+        } catch(e){}
+      }
+
+      this.addMapMarker = function(latlng, item){
+        var html = "<div style='display:block;white-space:nowrap;' class='gmap-info-window'><p><b>" + item.name + "</b></p><p>" + item.address +"</p><p>"+item.zip+" "+item.city+"</p>";
+
+        if(item.phone != ""){
+            html += "<p>Tel. "+item.phone+"</p>";
+        }
+        if(item.website != ""){
+          html += '<p><a target="_blank" href="http://'+item.website+'">'+item.website+'</a></p>';
+        }
+        if(item.mail != ""){
+          html += '<p>'+item.mail+'</p>';
+        }
+        html += "<a class='ob-googlemap-routeguidance-link' href='javascript:void(0);' onclick='javascript:obgooglemap.setRouteDestination(\""+item.lat+"\", \""+item.lon+"\");'></a> <a href='javascript:void(0);' onclick='javascript:obgooglemap.setStreetView(\""+item.lat+"\", \""+item.lon+"\");'>Street view</a>";
+
+        html += "</div>";
+
+        var marker = new google.maps.Marker({
+            map: self.map,
+            position: latlng,
+												icon: '/skin/frontend/default/onlinebrand/images/mapmarker.png'
+        });
+
+        google.maps.event.addListener(marker, 'click', function(){
+            self.infoWindow.setContent('<div class="scrollFix" style="line-height: 1.35; overflow:hidden; white-space: nowrap">'+html+'</div>');
+            self.infoWindow.open(self.map, marker);
+        });
+
+        this.markers.push(marker);
+      }
+
+      this.addLocationOption = function(num, item){
+        var html = '<div onclick="javascript:obgooglemap.focusLocation(\''+item.address+'\', \''+num+'\');" class="col-lg-3 col-md-3 col-sm-3 col-xs-6 mapheight">'
+                  + '<center><img class="eqheight" src="/media/'+item.image+'" /></center>'
+                  + '<h4>'+item.name+'</h4>'
+                  + '<p>'+item.address+'</p>'
+                  + '<p>'+item.zip+' '+item.city+'</p>'
+                  + '<p>'+item.open+'</p>'
+                  + '<p>'+item.close+'</p>'
+
+
+
+        if(item.phone != ""){
+          html += '<p><i class="ob-icon-phone"></i>'+item.phone+'</p>';
+        }
+        if(item.website != ""){
+          html += '<p><a target="_blank" href="http://'+item.website+'">'+item.website+'</a></p>';
+        }
+        if(item.mail != ""){
+          html += '<p>'+item.mail+'</p>';
+        }
+
+        html += '</div>';
+
+        jQuery("#locationSelect").show();
+        jQuery("#selectLocations").prepend(html);
+      }
+
+      this.focusLocation = function(address, num){
+        var geocoder = new google.maps.Geocoder();
+        var latLng = this.markers[num].getPosition();
+
+        this.map.setCenter(latLng);
+        this.map.setZoom(14);
+        google.maps.event.trigger(this.markers[num], 'click');
+        jQuery('html, body').animate({scrollTop:100 + 'px'}, '0');
+      }
+
+      this.setRouteDestination = function(lat, lon){
+        this.tmp_lat = new google.maps.LatLng(
+                parseFloat(lat),
+                parseFloat(lon));
+        jQuery("#ob-googlemap-directions-container").fadeIn();
+      }
+
+      this.stopRouteGuidance = function(){
+        jQuery("#ob-googlemap-directions-container").fadeOut();
+        jQuery("#directions").hide();
+        this.directionsDisplay.setMap(null);
+      }
+
+      this.startRouteGuidance = function(){
+        this.directionsDisplay.setMap(this.map);
+        this.directionsDisplay.setPanel(document.getElementById('directions'));
+
+        jQuery("#directions").show();
+
+        var request = {
+            origin: jQuery("#from").val(),
+            destination: this.tmp_lat,
+            travelMode: google.maps.TravelMode.DRIVING
+        };
+
+        this.directionsService.route(request, function(result, status){
+            if(status == google.maps.DirectionsStatus.OK){
+                self.directionsDisplay.setDirections(result);
+            } else {
+                jQuery("#directions").text("Ruten kunne ikke beregnes.");
+            }
+        });
+      }
+
+      this.setStreetView = function(lat, lon){
+        this.stopRouteGuidance();
+        this.tmp_lat = new google.maps.LatLng(
+                parseFloat(lat),
+                parseFloat(lon));
+
+        var panoramaOptions = {
+          position: this.tmp_lat,
+          pov: {
+            heading: 34,
+            pitch: 10
+          },
+          enableCloseButton: true
+        };
+
+        this.panorama = new google.maps.StreetViewPanorama(document.getElementById("map_canvas"), panoramaOptions);
+        this.map.setStreetView(this.panorama);
+      }
+
+      return this._init();
+    };
+
+
+    //]]>
+</script>
+
+
+
+<div id="ob-googlemap-directions-container" style="height:500px;width: 340px;background:#fff;display:none;position:absolute;right:0;z-index:1000000;">
+				<div style="height:70px;">
+				<label>Route from</label> <a href="javascript:void(0);" class="ob-googlemap-guidance-close" onclick="javascript:obgooglemap.stopRouteGuidance();">Close</a>
+						<input name="from" id="from" type="text"/><a href="javascript:void(0);" id="directionsSubmit" onclick="javascript:obgooglemap.startRouteGuidance();">Find directions</a>
+				</div>
+				<div id="directions" style="overflow-y: scroll;max-height: 430px;display: none;"></div>
+</div>
+<div style="clear:both;"></div>
+<div id="map_canvas" class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="height: 600px;"></div>
+
+
+<div class="ob-googlemap-search-container">
+			<div class="container">
+						<div class="row">
+    <div class="col-lg-6 col-sm-6">
+        <p>Choose country</p>
+        <select id="countrySelect" onchange="javascript:obgooglemap.searchLocations();">
+          <option value="">Country</option>
+          <option data-code="da" value="Denmark">Denmark</option><option data-code="FI" value="Finland">Finland</option><option data-code="us" value="USA">USA</option><option data-code="cn" value="China">China</option><option data-code="hk" value="Hong Kong">Hong Kong</option><option data-code="ae" value="Dubai">Dubai</option><option data-code="jp" value="Japan">Japan</option><option data-code="my" value="Malaysia">Malaysia</option>        </select>
+    </div>
+    <div class="col-lg-6 col-sm-6">
+        <input type="text" id="addressInput" size="10" />
+        <input type="button" class="button ob-googlemap-search" onclick="javascript:obgooglemap.searchLocations();" value="Search" />
+    </div>
+						</div></div>
+</div>
+
+<div id="ob-googlemap-error" style="display:none;">Your search returned no results.</div>
+<div id="locationSelect" style="visibility: visible;">
+	<div id="selectImage">
+		 
+	</div>
+			<div class="container">
+						<div class="row">
+    <div id="selectLocations" style="display:none">
+    </div>
+						</div></div>
+</div>
+
+<div style="clear:both;"></div>
+
+<script type="text/javascript">
+    document.addEventListener('ob_loaded', function(){
+        obgooglemap = new onlinebrand.googlemap();
+    });
+
+		$("#countrySelect").change(function() {
+			var changed = true;
+			if(changed != true) {
+
+			} else {
+				document.getElementById("selectLocations").setAttribute("style", "display:block");
+			}
+			var selector = document.getElementById('countrySelect');
+	    var value = selector.value;
+
+			if(selector.value == "Denmark") {
+				document.getElementById("countryImage").setAttribute("style", "display:block");
+				document.getElementById("countryImage").setAttribute("src", "");
+			}
+		});
+</script>
+</section>
+												</div>
+									</div>
+						</div>
+			</div>
+			</section>
+
+<footer>
+<div id="footer">
+<div class="container">
+	<div class="row">
+	<div class="hidden-lg md-md-12 col-sm-12 hidden-xs default-margin text-center">
+					<div class="social-media">
+<a href="https://www.facebook.com/houseofamberofficial/" class="icon"><img src="https://www.houseofamber.com/media/wysiwyg/icons/icon-fb.png" alt="" /></a>
+<a href="https://www.instagram.com/house_of_amber_official/" class="icon"><img src="https://www.houseofamber.com/media/wysiwyg/icons/icon-im.png" alt="" /></a>
+<a href="https://www.wechat.com/en/" class="icon"><img src="https://www.houseofamber.com/media/wysiwyg/icons/icon-wc.png" alt="" /></a>
+<a href="https://www.pinterest.com/houseofamber/" class="icon"><img src="https://www.houseofamber.com/media/wysiwyg/icons/icon-pt.png" alt="" /></a>
+<a href="https://www.youtube.com/channel/UCHrPxDlIaWNb5hAe63v1n5A" class="icon"><img src="https://www.houseofamber.com/media/wysiwyg/icons/icon-yt.png" alt="" /></a>
+</div>				</div>
+	</div>
+	<div class="row">
+				<div class="col-lg-3 col-md-4 col-sm-4 col-xs-12 default-margin">
+					<p class="head1">CONTACT</p>
+<p>House of Amber<br/>
+Kongens Nytorv 2<br/>
+DK-1050 Copenhagen C<br/>
+Telephone <a href="callto:+4551859615">+45 51 85 96 15</a></p>
+<p>CVR: 41540184</p>
+<a href="mailto:info@houseofamber.com">info@houseofamber.com</a>				</div>
+				<div class="col-lg-3 hidden-md hidden-sm col-xs-12 default-margin">
+					<div class="social-media">
+<a href="https://www.facebook.com/houseofamberofficial/" class="icon"><img src="https://www.houseofamber.com/media/wysiwyg/icons/icon-fb.png" alt="" /></a>
+<a href="https://www.instagram.com/house_of_amber_official/" class="icon"><img src="https://www.houseofamber.com/media/wysiwyg/icons/icon-im.png" alt="" /></a>
+<a href="https://www.wechat.com/en/" class="icon"><img src="https://www.houseofamber.com/media/wysiwyg/icons/icon-wc.png" alt="" /></a>
+<a href="https://www.pinterest.com/houseofamber/" class="icon"><img src="https://www.houseofamber.com/media/wysiwyg/icons/icon-pt.png" alt="" /></a>
+<a href="https://www.youtube.com/channel/UCHrPxDlIaWNb5hAe63v1n5A" class="icon"><img src="https://www.houseofamber.com/media/wysiwyg/icons/icon-yt.png" alt="" /></a>
+</div>				</div>
+				<div class="col-lg-3 col-md-4 col-sm-4 col-xs-12 default-margin">
+					<p class="head1">ABOUT</p>
+<ul>
+<li><a href="/">House of Amber</a></li>
+<li><a href="/our-stores">Stores</a></li>
+<li><a href="/eng/info/jewellery-guide">Jewellery</a></li>
+<li><a href="/info/contact-us">Contact</a></li>
+</ul>
+
+
+
+
+				</div>
+				<div class="col-lg-3 col-md-4 col-sm-4 col-xs-12 default-margin">
+					<p class="head1">CUSTOMER</p>
+<ul>
+<li><a href="/eng/customer/account/login">Your account</a></li>
+<li><a href="/eng/info/terms-conditions">Terms & Conditions</a></li>
+<li><a href="/privacy-policy-cookie-restriction-mode">Privacy Policy</a></li>
+<li><a href="/returns">Returns</a></li>
+</ul>
+
+
+
+
+
+
+
+
+
+				</div>
+	</div>
+    			<div class="row">
+    			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center">
+					 
+				</div>
+                </div>
+</div>
+</div>
+<div class="byline">
+			<div class="container">
+						<div class="row">
+									<div class="col-lg-6 col-md-6 col-sm-6 hidden-xs">
+												House of Amber © 2015
+									</div>
+									<div class="col-lg-6 col-md-6 col-sm-6 hidden-xs text-right">
+												<a rel="dofollow" class="author-link" title="Webshop" href="http://www.onlinebrand.dk" target="_blank">onlineBRAND</a>
+									</div>
+                                    <div class="hidden-lg hidden-md hidden-sm col-xs-12 text-center">
+												House of Amber © 2015
+									</div>
+									<div class="hidden-lg hidden-md hidden-sm col-xs-12 text-center">
+												<a rel="dofollow" class="author-link" title="Webshop" href="http://www.onlinebrand.dk" target="_blank">onlineBRAND</a>
+									</div>
+						</div>
+			</div>
+</div>
+</footer>
+
+
+<script type="text/javascript" src="/skin/frontend/default/onlinebrand/js/head.js" async=""></script>
+<script>
+WebFontConfig = {
+    google: { families: [ 'Poppins:300,400,400i,700,700' ] }
+  };
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+  })();
+function a(){head.load("https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js",function(){jQuery.noConflict();head.load("/skin/frontend/default/onlinebrand/js/onlinebrand.js",function(){new Onlinebrand([{name:"objects"},{name:"messages"},{name:"template"},{name:"eqheight"},{name:"mobileMenu"}])})})}window.addEventListener?window.addEventListener("load",a,!1):window.attachEvent?window.attachEvent("onload",a):window.b&&(window.onload=a);
+</script>
+
+<!-- Start e-maerket widget -->
+<script type="text/javascript">
+(function (d, l) {var h = d.getElementsByTagName("head")[0],s = d.createElement("script");s.type = "text/javascript";s.async = true;s.src = l;h.appendChild(s);})(document, 'https://widget.emaerket.dk/js/ac982fd865d654f5187183aa34895ab9');
+</script>
+<!-- // end e-maerket widget -->
+
+
+<section id="overlay">
+			<div class="site-overlay"></div>
+			<div id="ob-popup"><div class="ob-popup-content shadow"></div></div>
+			<div id="preloader"><div class="loader shadow"><img width="32" height="32" src="/skin/frontend/default/onlinebrand/images/ajax-loader.gif" alt=""></div></div>
+			</section>
+
+</body>
+</html>
